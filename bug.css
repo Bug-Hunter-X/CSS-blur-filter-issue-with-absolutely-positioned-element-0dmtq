@@ -1,0 +1,1 @@
+The CSS property `filter: blur()` is applied to an element with the position property set to absolute, causing the blur effect to only appear within the element's bounding box and not affect any elements below it. This is because absolutely positioned elements are removed from the document flow.
